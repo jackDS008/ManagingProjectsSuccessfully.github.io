@@ -1,8 +1,8 @@
 ---
 title: Bar_Camp
-tags: agil klassisch
+tags: klassisch
 author: jackDS008
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Bar_Camp um ein erstes Verständnis dafür zu schaffen um was es hier geht.
